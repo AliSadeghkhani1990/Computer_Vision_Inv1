@@ -1,5 +1,5 @@
 This project is developed based on my first course in Coursera which is titled: "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning". This project is simply developed for distinguishing between Human and Horse images. It's an opener to perform more complex and specialized works based on Artificial Intelligence, Machine Learning, and Deep Learning in my fields of study and my interests.
-
+For running the project you can simply open it via Colab, then running the first cell; it will automatically download the data set and 
 
 What the project does
     Why the project is useful
